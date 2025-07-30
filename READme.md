@@ -1,5 +1,3 @@
-Based on our entire conversation about the Apify Actor Runner project, here's a comprehensive README file that covers both manual and Docker setup:
-
 # Apify Actor Runner
 
 A full-stack web application that allows users to dynamically fetch, configure, and execute Apify actors with real-time schema loading and results display.
